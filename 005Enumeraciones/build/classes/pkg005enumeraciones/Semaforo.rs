@@ -1,0 +1,2 @@
+pkg005enumeraciones.ColorSemaforo
+pkg005enumeraciones.Semaforo
